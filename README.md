@@ -5,7 +5,7 @@ This is a Python-based recommendation system designed to help users discover mot
 ## 🏍️ Features
 
 - Text-based user interface
-- Custom motorcycle suggestions based on:
+- Motorcycle suggestions based on:
   - Height & Weight
   - Years of riding experience
   - Riding purpose (racing, stunting, cruising, off-roading)
