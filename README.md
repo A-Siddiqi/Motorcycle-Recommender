@@ -5,7 +5,7 @@ This is a Python-based recommendation system designed to help users discover mot
 ## 🏍️ Features
 
 - Text-based user interface
-- Custom motorcycle suggestions based on:
+- Motorcycle suggestions based on:
   - Height & Weight
   - Years of riding experience
   - Riding purpose (racing, stunting, cruising, off-roading)
@@ -25,7 +25,7 @@ New and experienced motorcycle riders looking for tailored bike recommendations 
 ## 🔗 Related Projects
 
 This project was inspired by:
-- [GitHub: Motorcycle-recommendation-system](https://github.com/Vibhu-Agarwal/Motorcycle-Recommendation-System)
+- [[[GitHub: Motorcycle-recommendation-system](https://github.com/Vibhu-Agarwal/Motorcycle-Recommendation-System)](https://github.com/recommenders-team/recommenders?utm_source=chatgpt.com)](https://github.com/recommenders-team/recommenders)
 - [Online tutorial - Build a Recommender in Python](https://realpython.com/build-recommendation-engine-collaborative-filtering/)
 
 ## 📜 License
